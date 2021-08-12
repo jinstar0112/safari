@@ -1,1 +1,1 @@
-# safari-extension-example
+# migrating-chrome-extension-to-safari-example
